@@ -10,5 +10,5 @@ I finally decided to use a Raspberry Pi camera instead of the Logitech and to ad
 
 ![picam](picam.png "picam")
 
-![picam-live](picam-live.png "picam-live")
+![picam-live](picam-live.jpg "picam-live")
 
