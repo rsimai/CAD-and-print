@@ -2,5 +2,5 @@
 
 pencil-sharpener-holder
 
-![pencil-sharpener-holder](pencil-sharpener-holder.png "pencil-sharpener-holder")
+![pencil-sharpener-holder](pencil-sharpener-holder.jpg "pencil-sharpener-holder")
 
